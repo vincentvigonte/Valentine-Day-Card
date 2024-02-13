@@ -204,7 +204,7 @@ body {
     height:0;
   }
   
-  .shadow {
+  /* .shadow {
     position: absolute;
     width: 330px;
     height: 25px;
@@ -214,7 +214,7 @@ body {
     left: 500px; 
     animation: scale 3s linear infinite;
     z-index: -1;
-  }
+  } */
   
   @keyframes scale {
     0%, 100% {
